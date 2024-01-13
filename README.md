@@ -9,9 +9,13 @@
 ------------------------------------------------------------------------
 ### Execution steps
 1. Clone the repo
-
+```
+git clone https://github.com/iamnexxed/Shot-Detection
+```
 2. cd to the folder directory
-
+```
+cd Shot-Detection
+```
 3. Create a virtual enviroment in the project directory
 ```
 python3 -m venv env
