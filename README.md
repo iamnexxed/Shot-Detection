@@ -8,29 +8,33 @@
 
 ------------------------------------------------------------------------
 ### Execution steps
-1. Create a virtual enviroment in your current project directory
+1. Clone the repo
+
+2. cd to the folder directory
+
+3. Create a virtual enviroment in the project directory
 ```
 python3 -m venv env
 ```
 
-2. Activate the environment
+4. Activate the environment
 ```
 source env/bin/activate
 ```
 
-3. Install the package requirements
+5. Install the package requirements
 ```
 pip install -r requirements.txt
 ```
 
-4. <b>Ensure that this project directory contains the "videos" folder with all the stroke videos</b>
+6. <b>Ensure that this project directory contains the "videos" folder with all the stroke videos</b>
 
-5. Make the shell script executable
+7. Make the shell script executable
 ```
 chmod +x process_mp4_files.sh
 ```
 
-6. Run the shell script
+8. Run the shell script
 ```
 ./process_mp4_files.sh
 ```
