@@ -46,7 +46,7 @@ This will create an output folder in each stroke directory. The output folder wi
 - Install- "matplotlib.pyplot, tensorflow, keras" python packages in your python notebook.
 4. Now run all the cells in the python notebook
 5. It should create an images folder which contains all the distances for each tennis stroke
-6. Further it should also create a model folder which stores the tensorflow model
+6. Further it should also create a models folder which stores the LSTM tensorflow model
 
 
 ## References:
