@@ -5,6 +5,7 @@
 ### Skip this PART if you already have the keypoints needed to build a model
 
 <b>Note</b>: Currently the Shot Detection Model takes in training 30 videos of Forehand shots, 30 videos of Backhand shots, 30 videos of Serves and 60 videos of No Stroke (each video consists of 58 frames). In case a keypoint is missing or not found for a frame an average of previous frame and next frame's coordinates is taken for the current frame's keypoint pixel coordinates.
+
 ------------------------------------------------------------------------
 ### Execution steps
 1. Create a virtual enviroment in your current project directory
