@@ -47,7 +47,7 @@ This will create an output folder in each stroke directory. The output folder wi
 1. Open the Python Notebook <i>lstm.ipynb</i>
 2. If you have Anaconda preinstalled, select the python notebook kernel as <i>anaconda3/bin/python3</i>. The anaconda framework should already contain the necessary packages.
 3. Follow this step if you don't have anaconda installed.
-- Install- "matplotlib.pyplot, tensorflow, keras" python packages in your python notebook.
+- Install- "matplotlib.pyplot, tensorflow, keras, scikit-learn" python packages in your python notebook.
 4. Now run all the cells in the python notebook
 5. It should create an images folder which contains all the distances for each tennis stroke
 6. Further it should also create a models folder which stores the LSTM tensorflow model
