@@ -152,6 +152,7 @@ cython_debug/
 #.idea/
 
 # Project Assets
-videos/
+
+*.mp4
 images/
 models/
